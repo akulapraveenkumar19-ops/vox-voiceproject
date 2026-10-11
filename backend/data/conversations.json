@@ -1,0 +1,436 @@
+[
+  {
+    "user_id": "anonymous",
+    "message": "What is artificial intelligence?",
+    "response": "Artificial intelligence, or AI, refers to computer systems designed to perform tasks that typically require human intelligence. This includes abilities like learning, reasoning, problem-solving, and understanding language.",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T09:58:07.189525+00:00",
+    "_id": "1549489e-9a39-43b9-bba3-4e70e8f9c853"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "play shape of you on youtube",
+    "response": "Searching YouTube for shape of you.",
+    "command_type": "action",
+    "action": "play_youtube",
+    "url": "https://www.youtube.com/results?search_query=shape+of+you",
+    "timestamp": "2026-10-02T09:58:18.291507+00:00",
+    "_id": "9da53c90-daf8-44d5-9c51-c737e1b6ed91"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "weather in London",
+    "response": "The current weather in London is Partly Cloudy  at 15\u00b0C (59\u00b0F) with 71% humidity.",
+    "command_type": "action",
+    "action": "weather",
+    "url": null,
+    "timestamp": "2026-10-02T09:58:18.427393+00:00",
+    "_id": "e3c28d07-4aaa-4bd8-81c8-e1c8f3a5a525"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "calculate 45 * 8",
+    "response": "45 * 8 equals 360.",
+    "command_type": "action",
+    "action": "calculate",
+    "url": null,
+    "timestamp": "2026-10-02T09:58:19.387500+00:00",
+    "_id": "0dd86b02-208f-4200-889e-3989b3ac0183"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "take a note: Buy groceries tomorrow at 10am",
+    "response": "I have saved your note: \"buy groceries tomorrow at 10am\".",
+    "command_type": "action",
+    "action": "save_note",
+    "url": null,
+    "timestamp": "2026-10-02T09:58:19.395272+00:00",
+    "_id": "a7e82da8-8e75-4c9d-ac99-3797e3e9ff3d"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "Weather in hyderabad",
+    "response": "The current weather in Hyderabad is Sunny at 30\u00b0C (85\u00b0F) with 40% humidity.",
+    "command_type": "action",
+    "action": "weather",
+    "url": null,
+    "timestamp": "2026-10-02T10:02:49.111089+00:00",
+    "_id": "17df09e2-1d39-4450-b4f1-4ca279f38e20"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "play lo-fi beats on youtube",
+    "response": "Searching YouTube for lo-fi beats.",
+    "command_type": "action",
+    "action": "play_youtube",
+    "url": "https://www.youtube.com/results?search_query=lo-fi+beats",
+    "timestamp": "2026-10-02T10:02:55.362419+00:00",
+    "_id": "d453edb4-604d-4034-8e35-8de168d3af3c"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "calculate 25 * 38",
+    "response": "25 * 38 equals 950.",
+    "command_type": "action",
+    "action": "calculate",
+    "url": null,
+    "timestamp": "2026-10-02T10:04:31.534059+00:00",
+    "_id": "0e02c69c-df35-4e34-a335-d3dfa1e005ea"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "open github",
+    "response": "Opening Github for you.",
+    "command_type": "action",
+    "action": "open_url",
+    "url": "https://github.com",
+    "timestamp": "2026-10-02T10:04:36.904218+00:00",
+    "_id": "fcc192f4-f22a-484f-891b-312faf43d39c"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "open github",
+    "response": "Opening Github for you.",
+    "command_type": "action",
+    "action": "open_url",
+    "url": "https://github.com",
+    "timestamp": "2026-10-02T10:05:17.816000+00:00",
+    "_id": "b4512921-5c5f-4371-b132-da1d36f6a2d0"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "And open the GitHub page window",
+    "response": "I can't open web pages directly, but you can easily visit GitHub by typing github.com in your browser's address bar. Let me know if you need help with anything specific on GitHub!",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T10:05:18.825373+00:00",
+    "_id": "ea489540-9c43-4802-a568-aad6bfeb4022"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "take a note: Meeting with team tomorrow at 3pm",
+    "response": "I have saved your note: \"meeting with team tomorrow at 3pm\".",
+    "command_type": "action",
+    "action": "save_note",
+    "url": null,
+    "timestamp": "2026-10-02T10:16:38.035568+00:00",
+    "_id": "dd1e2bf1-3c15-41e9-8006-cf3706560105"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "take a note: Meeting with team tomorrow at 3pm",
+    "response": "I have saved your note: \"meeting with team tomorrow at 3pm\".",
+    "command_type": "action",
+    "action": "save_note",
+    "url": null,
+    "timestamp": "2026-10-02T10:16:53.448434+00:00",
+    "_id": "f35c4f94-9704-44d9-b20c-d96a0d725776"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "call 9876543210",
+    "response": "Calling 9876543210 on your device.",
+    "command_type": "action",
+    "action": "call_phone",
+    "url": "tel:9876543210",
+    "timestamp": "2026-10-02T10:37:22.975639+00:00",
+    "_id": "868223a3-1fcd-472b-8342-2638e88a16ef"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "call on whatsapp +919876543210",
+    "response": "Calling +919876543210 on WhatsApp.",
+    "command_type": "action",
+    "action": "call_whatsapp",
+    "url": "https://wa.me/919876543210",
+    "timestamp": "2026-10-02T10:37:23.003625+00:00",
+    "_id": "affcec31-ef70-4686-bc09-8995cb3ed5ed"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "???? ???? 9876543210",
+    "response": "\u0c15\u0c4d\u0c37\u0c2e\u0c3f\u0c02\u0c1a\u0c02\u0c21\u0c3f, \u0c15\u0c3e\u0c28\u0c40 \u0c2e\u0c40\u0c15\u0c41 \u0c38\u0c39\u0c3e\u0c2f\u0c02 \u0c1a\u0c47\u0c2f\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c28\u0c47\u0c28\u0c41 \u0c2e\u0c40 \u0c2b\u0c4b\u0c28\u0c4d \u0c28\u0c02\u0c2c\u0c30\u0c4d\u200c\u0c28\u0c41 \u0c09\u0c2a\u0c2f\u0c4b\u0c17\u0c3f\u0c02\u0c1a\u0c32\u0c47\u0c28\u0c41. \u0c2e\u0c40\u0c30\u0c41 \u0c0f\u0c26\u0c48\u0c28\u0c3e \u0c2a\u0c4d\u0c30\u0c24\u0c4d\u0c2f\u0c47\u0c15\u0c2e\u0c48\u0c28 \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c02 \u0c15\u0c4b\u0c38\u0c02 \u0c05\u0c21\u0c17\u0c3e\u0c32\u0c28\u0c41\u0c15\u0c41\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c3e?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T10:37:23.016571+00:00",
+    "_id": "427d2feb-7a43-45fd-a0e5-8209bcdb4144"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "play lo-fi hip hop on youtube",
+    "response": "Searching YouTube for lo-fi hip hop.",
+    "command_type": "action",
+    "action": "play_youtube",
+    "url": "https://www.youtube.com/results?search_query=lo-fi+hip+hop",
+    "timestamp": "2026-10-02T10:38:56.218426+00:00",
+    "_id": "d887ebef-aacb-4c8b-8bfc-e6a44779db29"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "\u0c15\u0c3e\u0c32\u0c4d \u0c1a\u0c47\u0c2f\u0c3f 9876543210",
+    "response": "9876543210 \u0c15\u0c41 \u0c15\u0c3e\u0c32\u0c4d \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41.",
+    "command_type": "action",
+    "action": "call_phone",
+    "url": "tel:9876543210",
+    "timestamp": "2026-10-02T10:40:04.355448+00:00",
+    "_id": "679c5bcd-7688-4dca-b644-04e603f39ade"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "\u0c15\u0c3e\u0c32\u0c4d \u0c1a\u0c47\u0c2f\u0c3f 9876543210",
+    "response": "9876543210 \u0c15\u0c41 \u0c15\u0c3e\u0c32\u0c4d \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41.",
+    "command_type": "action",
+    "action": "call_phone",
+    "url": "tel:9876543210",
+    "timestamp": "2026-10-02T10:40:18.255235+00:00",
+    "_id": "010d7e76-3f8f-4675-ab7d-7281c06e0927"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "\u0c15\u0c43\u0c24\u0c4d\u0c30\u0c3f\u0c2e \u0c2e\u0c47\u0c27\u0c38\u0c4d\u0c38\u0c41 \u0c05\u0c02\u0c1f\u0c47 \u0c0f\u0c2e\u0c3f\u0c1f\u0c3f?",
+    "response": "\u0c15\u0c43\u0c24\u0c4d\u0c30\u0c3f\u0c2e \u0c2e\u0c47\u0c27\u0c38\u0c4d\u0c38\u0c41 \u0c05\u0c02\u0c1f\u0c47 \u0c15\u0c02\u0c2a\u0c4d\u0c2f\u0c42\u0c1f\u0c30\u0c4d\u0c32\u0c15\u0c41 \u0c2e\u0c3e\u0c28\u0c35 \u0c2e\u0c47\u0c27\u0c38\u0c4d\u0c38\u0c41\u0c15\u0c41 \u0c38\u0c2e\u0c3e\u0c28\u0c2e\u0c48\u0c28 \u0c35\u0c3f\u0c27\u0c02\u0c17\u0c3e \u0c06\u0c32\u0c4b\u0c1a\u0c3f\u0c02\u0c1a\u0c47, \u0c28\u0c47\u0c30\u0c4d\u0c1a\u0c41\u0c15\u0c41\u0c28\u0c47 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c38\u0c2e\u0c38\u0c4d\u0c2f\u0c32\u0c41 \u0c2a\u0c30\u0c3f\u0c37\u0c4d\u0c15\u0c30\u0c3f\u0c02\u0c1a\u0c47 \u0c38\u0c3e\u0c2e\u0c30\u0c4d\u0c25\u0c4d\u0c2f\u0c02 \u0c15\u0c32\u0c3f\u0c17\u0c3f\u0c28 \u0c38\u0c3e\u0c02\u0c15\u0c47\u0c24\u0c3f\u0c15\u0c24. \u0c07\u0c26\u0c3f \u0c21\u0c47\u0c1f\u0c3e\u0c28\u0c41 \u0c35\u0c3f\u0c36\u0c4d\u0c32\u0c47\u0c37\u0c3f\u0c02\u0c1a\u0c21\u0c02, \u0c28\u0c3f\u0c30\u0c4d\u0c23\u0c2f\u0c3e\u0c32\u0c41 \u0c24\u0c40\u0c38\u0c41\u0c15\u0c4b\u0c35\u0c21\u0c02 \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c05\u0c28\u0c47\u0c15 \u0c35\u0c3f\u0c27\u0c3e\u0c32\u0c41\u0c17\u0c3e \u0c2e\u0c3e\u0c28\u0c35\u0c41\u0c32 \u0c24\u0c30\u0c39\u0c3e\u0c32\u0c4b \u0c2a\u0c28\u0c41\u0c32\u0c41 \u0c1a\u0c47\u0c2f\u0c21\u0c02 \u0c38\u0c3e\u0c27\u0c4d\u0c2f\u0c02 \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f.",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T10:40:29.015815+00:00",
+    "_id": "3536a19e-a09c-4b10-95c4-5d6604d89cb2"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "OK.",
+    "response": "Great! How can I assist you today?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T12:01:45.691504+00:00",
+    "_id": "0175a10a-a989-4338-8455-71e12a917bcb"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "7981779432.",
+    "response": "It seems like you've entered a number. How can I assist you with that?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-02T12:02:28.359613+00:00",
+    "_id": "64f9b690-8db2-4c6d-a8a1-8a19e81d7e59"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "7981779432 \u0c15\u0c41 \u0c15\u0c3e\u0c32\u0c4d \u0c1a\u0c47\u0c2f\u0c3f \u0c32\u0c47\u0c26\u0c3e 'Call me back later' \u0c05\u0c28\u0c3f \u0c2e\u0c46\u0c38\u0c47\u0c1c\u0c4d \u0c1a\u0c47\u0c2f\u0c3f",
+    "response": "Calling +917981779432 on your device. You can also send 'Call me back later' via WhatsApp or SMS.",
+    "command_type": "action",
+    "action": "call_or_message",
+    "url": "tel:+917981779432",
+    "timestamp": "2026-10-02T12:02:41.848504+00:00",
+    "_id": "768e3cc0-5f5e-4c0d-9b56-ab87d5b08090"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "weather in Hyderabad",
+    "response": "The current weather in Hyderabad is Partly Cloudy  at 27 degrees Celsius (80 degrees Fahrenheit) with 53% humidity.",
+    "command_type": "action",
+    "action": "weather",
+    "url": null,
+    "timestamp": "2026-10-02T12:03:33.007193+00:00",
+    "_id": "28eb19c7-3927-4efd-b4d4-5bddb2ece07d"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "Call this number 7981779432 or message 'Call me back later'",
+    "response": "Calling +917981779432 on your device. You can also send 'Call me back later' via WhatsApp or SMS.",
+    "command_type": "action",
+    "action": "call_or_message",
+    "url": "tel:+917981779432",
+    "timestamp": "2026-10-02T12:04:51.453137+00:00",
+    "_id": "0ad0ccea-afb2-4589-9b07-b27a61b46020"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "message 7981779432 Call me back later",
+    "response": "Prepared message 'Call me back later' for +917981779432 on WhatsApp and SMS.",
+    "command_type": "action",
+    "action": "send_message",
+    "url": "https://wa.me/917981779432?text=Call%20me%20back%20later",
+    "timestamp": "2026-10-02T12:04:51.465601+00:00",
+    "_id": "83802b17-2187-4abe-8a70-e54065b7da62"
+  },
+  {
+    "user_id": "anonymous",
+    "message": "call this number 7981779432",
+    "response": "Calling +917981779432 on your device.",
+    "command_type": "action",
+    "action": "call_phone",
+    "url": "tel:+917981779432",
+    "timestamp": "2026-10-02T12:04:51.477785+00:00",
+    "_id": "4e8fc150-2707-481a-bf74-8d392a0bd25d"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "Call this number 7981779432 or message 'Call me back later'",
+    "response": "Calling +917981779432 on your device. You can also send 'Call me back later' via WhatsApp or SMS.",
+    "command_type": "action",
+    "action": "call_or_message",
+    "url": "tel:+917981779432",
+    "timestamp": "2026-10-07T15:38:12.360091+00:00",
+    "_id": "d8adba3e-c15f-4336-9872-e6d58c8f42cf"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "OK, open YouTube.",
+    "response": "I can't open YouTube directly, but you can easily do that by visiting the YouTube website or using the app on your device. Let me know if you need help with anything specific on YouTube!",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-07T15:42:30.880271+00:00",
+    "_id": "38abeac6-7175-4d7f-ba52-39167b74448e"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "weather in New York",
+    "response": "The current weather in New York is Sunny at 15 degrees Celsius (59 degrees Fahrenheit) with 38% humidity.",
+    "command_type": "action",
+    "action": "weather",
+    "url": null,
+    "timestamp": "2026-10-07T15:42:54.175261+00:00",
+    "_id": "bb8ecfb7-a2ae-43bf-849d-c1fa0483d718"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "take a note: Meeting with team tomorrow at 3pm",
+    "response": "I have saved your note: \"meeting with team tomorrow at 3pm\".",
+    "command_type": "action",
+    "action": "save_note",
+    "url": null,
+    "timestamp": "2026-10-07T15:42:57.703287+00:00",
+    "_id": "87812972-31df-4605-bfe9-861212630dcc"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "What is quantum computing?",
+    "response": "Quantum computing is a type of computing that uses the principles of quantum mechanics to process information. Unlike traditional computers that use bits, quantum computers use qubits, allowing them to solve complex problems much faster.",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-07T15:43:02.346588+00:00",
+    "_id": "24a77278-1262-425d-827e-8a4308c58b93"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "What is quantum computing?",
+    "response": "Quantum computing is a type of computing that uses quantum bits, or qubits, which can represent and process information in ways that classical bits cannot. This allows quantum computers to solve complex problems much faster than traditional computers by leveraging principles of quantum mechanics.",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-07T15:43:04.071885+00:00",
+    "_id": "b06f269a-97b8-4240-a6c4-1faa24ffe26a"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "What is quantum computing?",
+    "response": "Quantum computing is a type of computing that uses the principles of quantum mechanics to process information. Unlike traditional computers that use bits, quantum computers use qubits, allowing them to perform complex calculations much faster.",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "timestamp": "2026-10-07T15:43:06.585096+00:00",
+    "_id": "a775c4e1-b724-419e-9067-6e419de23cc9"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "Call this number 7981779432 or message 'Call me back later'",
+    "response": "Calling +917981779432 on your device. You can also send 'Call me back later' via WhatsApp or SMS.",
+    "command_type": "action",
+    "action": "call_or_message",
+    "url": "tel:+917981779432",
+    "timestamp": "2026-10-07T15:46:07.672051+00:00",
+    "_id": "5599f73d-6ae2-47a1-8713-63a221c45897"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "Search Google for what   ispython",
+    "response": "Searching Google for what   ispython.",
+    "command_type": "action",
+    "action": "search_google",
+    "url": "https://www.google.com/search?q=what+++ispython",
+    "timestamp": "2026-10-07T15:46:40.849428+00:00",
+    "_id": "28b352a3-4d15-4f78-a9e0-0e756dade665"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "play lo-fi hip hop on youtube",
+    "response": "Searching YouTube for lo-fi hip hop.",
+    "command_type": "action",
+    "action": "play_youtube",
+    "url": "https://www.youtube.com/results?search_query=lo-fi+hip+hop",
+    "timestamp": "2026-10-07T15:46:49.143788+00:00",
+    "_id": "82a20094-c71b-4622-853c-81dc5591fd1a"
+  },
+  {
+    "user_id": "wa_anonymous",
+    "phone_number": "7981779432",
+    "display_name": "Praveen Kumar",
+    "about": "Available on VoxWeb",
+    "country_code": "+91",
+    "profile_image": null,
+    "is_connected": true,
+    "updated_at": "2026-10-07T16:10:25.264743+00:00",
+    "_id": "60d7a2b5-d550-486f-ab31-c79f8b765122"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "What time is it?",
+    "response": "The current time is 09:49 PM.",
+    "command_type": "action",
+    "action": "tell_time",
+    "url": null,
+    "timestamp": "2026-10-07T16:19:29.781419+00:00",
+    "_id": "c36ff90d-86ce-42f1-824c-5606ff7fe2dc"
+  },
+  {
+    "user_id": "2571c17d-5b2a-4683-8be3-0f2cfa37eb5e",
+    "message": "open youtube",
+    "response": "Opening Youtube for you.",
+    "command_type": "action",
+    "action": "open_url",
+    "url": "https://www.youtube.com",
+    "timestamp": "2026-10-07T17:00:31.937555+00:00",
+    "_id": "c1a58397-5f0b-4f39-959e-037546b4b923"
+  },
+  {
+    "user_id": "demo-user-voxweb",
+    "message": "hi",
+    "response": "Hello! How can I assist you today?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "model_used": "OpenRouter (openai/gpt-4o-mini)",
+    "timestamp": "2026-10-11T14:43:53.057180+00:00",
+    "_id": "09503a0f-a197-40a8-84a4-fa7e8b338225"
+  },
+  {
+    "user_id": "demo-user-voxweb",
+    "message": "How can I assist you today?",
+    "response": "I appreciate the offer! I'm here to provide information or answer any questions you might have. Is there a specific topic you're curious about?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "model_used": "OpenRouter (openai/gpt-4o-mini)",
+    "timestamp": "2026-10-11T14:44:12.426720+00:00",
+    "_id": "5492d768-b34f-418b-9a13-260955f7755c"
+  },
+  {
+    "user_id": "demo-user-voxweb",
+    "message": "Bye. Let's start. Let's start.",
+    "response": "It sounds like you're ready to dive into a topic or conversation. What would you like to start with today?",
+    "command_type": "ai",
+    "action": null,
+    "url": null,
+    "model_used": "OpenRouter (openai/gpt-4o-mini)",
+    "timestamp": "2026-10-11T15:02:18.400661+00:00",
+    "_id": "e1a30a00-ec1f-438a-bc03-a941247b4dc8"
+  }
+]
